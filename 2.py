@@ -20,4 +20,4 @@ time.sleep(1)
 
 print ("CHICKEN STRIPS")
 
-time.sleep(1)
+time.sleep(2)
